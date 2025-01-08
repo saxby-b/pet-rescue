@@ -29,6 +29,6 @@ const cleo = createPet("Cleo", "rat");
 const francine = createPet("Francine", "turtle");
 
 //console.log(sora, baxter, cleo, francine);
-console.log(clover.sleep());
-console.log(baxter.play());
-console.log(clover, baxter);
+//console.log(clover.sleep());
+//console.log(baxter.play());
+//console.log(clover, baxter);
