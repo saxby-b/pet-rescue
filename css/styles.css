@@ -76,4 +76,8 @@ body {
   .ruby {
     width: 200px;
   }
+
+ p.ruby {
+    width: 100%;
+ }
   
